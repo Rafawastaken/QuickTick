@@ -1,0 +1,27 @@
+# Binaries
+qt.exe
+quicktick.exe
+*.exe
+*.dll
+
+# Dependencies
+vendor/
+
+# Environment Variables
+.env
+
+# Database
+*.db
+*.db-journal
+
+# Configuration/Secrets
+auth.json
+config.json
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
